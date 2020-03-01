@@ -8,3 +8,5 @@ As far as I can figure it should automatically account for daylight savings time
 https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 Tested with Tampermonkey in Chrome, Firefox, and Edge Chromium
+
+![Screenshot](https://preview.redd.it/jhysnk3x30k41.png?width=914&format=png&auto=webp&s=2a7aad439386d0876b971c3bea0eb8813cb48355)
