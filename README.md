@@ -1,7 +1,7 @@
 # MLB.TV Time Zone Converter for Greasemonkey, Tampermonkey, etc
 A script to convert MLB.TV times to other time zones
 
-Converts to your local computer time zone by default, but can be overwritten to any other time zone you like by replacing the variable at the top of the script with the relevant TZ database name (see link below.)
+Converts to your local computer time zone by default, but can be overwritten to any other time zone you like by replacing the variable at the top of the script with the relevant TZ database name (see link below.) Script runs when you click your mouse on the MLB.TV Live Stream Schedule/Media Center page.
 
 As far as I can figure it should automatically account for daylight savings time, but I've never messed with Date/Time functions in JS before, so YMMV.
 
