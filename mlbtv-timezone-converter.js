@@ -11,11 +11,13 @@
 
 // ==CUSTOM OPTIONS==
 
-// Use 'local' to use your computer's default time zone. If you want to display a different time zone, go to https://en.wikipedia.org/wiki/List_of_tz_database_time_zones and put the "TZ database name" for your time zone in the quotations.
+// Use 'local' to use your computer's default time zone. If you want to display a different time zone, go to
+// https://en.wikipedia.org/wiki/List_of_tz_database_time_zones and put the "TZ database name" for your time zone in the quotations.
 // Example: 'America/Los_Angeles'
     var TimeZone = 'local'
 
-// Defaults to your computer's default date format. You can change this to 'en-US' for US English date format, 'en-GB' for international English date format, or any other language format you prefer
+// Defaults to your computer's default date format. You can change this to 'en-US' for US English date format,
+// 'en-GB' for International English date format, or any other language format you prefer
     var dateFormat = 'local'
 
 
