@@ -1,5 +1,5 @@
 # MLB.TV Time Zone Converter for Greasemonkey, Tampermonkey, etc
-Script to convert MLB TV times to other time zones
+A script to convert MLB.TV times to other time zones
 
 Converts to your local computer time zone by default, but can be overwritten to any other time zone you like by replacing the variable at the top of the script with the relevant TZ database name (see link below.)
 
